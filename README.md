@@ -20,7 +20,7 @@ A frontend clone of Netflix built using React and CSS. Users can browse movies a
 - Filter content by genre
 - Responsive design for mobile and desktop
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aanyashukla655-design/netflix-clone.git
+## Usage
+- Browse movies and TV shows on the homepage.
+- Click on a title to see detailed information.
+- Explore different categories using the navigation bar.
